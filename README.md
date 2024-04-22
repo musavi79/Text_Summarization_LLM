@@ -1,6 +1,13 @@
 Text summarization is one of the most important activities in the field of artificial intelligence and natural language processing. The main goal of text summarization is to extract key and important information from a lengthy text and generate a shorter and condensed version of it. Text summarization is widely used as a crucial technique in natural language processing within the field of artificial intelligence. The applications of text summarization span across various domains, including news delivery, reading and summarizing scientific articles, information retrieval and knowledge management, automated processing of documents and legal texts, as well as generating summaries of news and articles on websites and social media platforms.
 .for Persian texts has been developed using the Python programming language and leveraging transformer-based language models. Two popular models, BERT and Longformer, have been utilized in this project, which are well-suited for handling large textual documents. A notable aspect of this project is its ability to summarize both English and Persian documents.
 
+
+
+
+https://github.com/musavi79/Text_Summarization_LLM/assets/104809077/5f78975c-4260-4ccd-9976-5ddc86c1bf4e
+
+
+
 content: 
 
 .....سیاوش زره جنگ را به تن کرد و نزد پدرش آمد و درخواست خود را به او اعلام کرد. و به کی کاووس یادآوری کرد که  از نژادی شایسته است و از او خواست تا به او اجازه دهد تا رهبری لشکر را بر عهده بگیرد. کی کاووس با خوشحالی به سخنان او گوش داد و به خواسته های او رضایت داد. سپس قاصدانی نزد رستم فرستاد و رستم را فرمانده جنگ خواست و از او درخواست کرد تا از سیاوش مراقبت کند. کی کاووس به پهلوانش گفت:اگر مراقب او هستی، می‌توانم بخوابم، اما اگر نه، من به نظر خود عمل کنم.و رستم پاسخ داد و گفت: ای پادشاه، من بنده تو هستم و بر من واجب است که هر چه تو خواهی را انجام دهم. سیاوش نور قلب من و شادی روح من است، من خوشحالم که از او در برابر دشمنان محافظت کنم.»پس شیپورهای جنگ به صدا درآمد و صدای پای سواران فضا را پر کرد. لشکریان به ترتیب از پیش کی کاووس گذشتند و پسرش سیاوش در رأس آنها سوار بود. کی کاووس رو به پسر کرد و گفت:باشد که ستاره خوبت بر تو بدرخشد و پیروز و شاد به سوی من بازگردی .
